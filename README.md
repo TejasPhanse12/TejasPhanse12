@@ -18,8 +18,7 @@
 
 
 
-Aꜱᴘɪʀɪɴɢ Business Analyst | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Yolov4 ||
-【p】【y】【t】【h】【o】【n】
+Aꜱᴘɪʀɪɴɢ Business Analyst | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Yolov4
 
 ## About 📝:
    B.E. Information Technology student. Passionate about Data Science, Machine Learning and Business Analyst. Also, have some experience in Business Analyst and Deep Learning Object Detection. Passionate to work on real life projects.
