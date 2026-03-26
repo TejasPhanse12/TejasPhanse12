@@ -63,7 +63,7 @@ Aꜱᴘɪʀɪɴɢ Business Analyst | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇ�
 
 
 <h3 align="left">My Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasphanse12&show_icons=true&locale=en" alt="tejasphanse12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasphanse12&show_icons=true&locale=en" alt="TejasPhanse12" /></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
