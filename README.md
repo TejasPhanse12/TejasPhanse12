@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a data scientist focused on turning complex, messy data into decisions that matter. My work spans price elasticity modeling for L.L.Bean, geospatial ML for soil moisture estimation, and healthcare analytics across 5M+ stroke survivor records. I build end-to-end — from raw ETL pipelines to client-ready dashboards and published research.
+I'm a data scientist focused on turning complex, messy data into decisions that matter. My work spans price elasticity modeling for L.L.Bean, geospatial ML for soil moisture estimation, and healthcare analytics across 5M+ stroke survivor records. I build end-to-end from raw ETL pipelines to client-ready dashboards and published research.
 
 - 🎓 **MS Data Science**, Roux Institute at Northeastern University (2024–2026)
 - 💼 Currently: Data Scientist @ Institute for Experiential AI, Northeastern
